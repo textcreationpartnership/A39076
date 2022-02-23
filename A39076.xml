@@ -1,0 +1,761 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exposition of the holy ornaments and ceremonies which the Church uses at Mass Collected from several authors. And now publish'd for the common good of all Catholicks, and others.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 27 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39076</idno>
+            <idno type="STC">Wing E3888CA</idno>
+            <idno type="STC">Wing M1947C</idno>
+            <idno type="STC">ESTC R219775</idno>
+            <idno type="EEBO-CITATION">99831223</idno>
+            <idno type="PROQUEST">99831223</idno>
+            <idno type="VID">35686</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39076)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35686)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2048:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exposition of the holy ornaments and ceremonies which the Church uses at Mass Collected from several authors. And now publish'd for the common good of all Catholicks, and others.</title>
+               </titleStmt>
+               <extent>[2], 22, 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for N.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title: The ornaments and ceremonies us'd at Mass.</note>
+                  <note>Includes: The method of saying the rosary of Our Blessed Lady, sixteenth edition, with separate pagination and register. This item cataloged separately at reel 1973:13.</note>
+                  <note>With advertisements at the bottom of p. 22, first sequence, and on pp. 2-4 of the second sequence.</note>
+                  <note>Reproduction of the original in the Lambeth Palace Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Customs and practices --  Early works to 1800.</term>
+               <term>Rosary --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:35686:1"/>
+                  <pb facs="tcp:35686:1" rendition="simple:additions"/>
+                  <p>AN EXPOSITION OF THE Holy Ornaments AND Ceremonies WHICH THE CHURCH USES AT MASS.</p>
+                  <p>Collected from ſeveral Authors.</p>
+                  <p>And now publiſh'd for the common good of all <hi>Catholicks,</hi> and others.</p>
+                  <p>
+                     <hi>London,</hi> Printed for <hi>N. T.</hi> 1686.</p>
+               </div>
+               <div type="preface">
+                  <pb facs="tcp:35686:2"/>
+                  <p>HEre followeth a brief Sig<g ref="char:EOLhyphen"/>nification of the Priest<g ref="char:EOLhyphen"/>ly Ornaments us'd at <hi>Maſs;</hi> as alſo a ſhort Declaration of the Ceremonies and Holy Myſteries of that Divine Sacrifice, for Comfort and Inſtruction of the Church, thereby to renew in our minds a grateful memory of thoſe ſeveral dolorous paſſages of the bitter <hi>Paſſion</hi> of our Di<g ref="char:EOLhyphen"/>vine Redeemer, who did ſuffer ſo much in ſatisfaction of his Eternal Father's Justice for our Sins.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="1" facs="tcp:35686:2"/>
+                  <head>Of the Holy ORNAMENTS AND CEREMONIES Which the Church uſeth at MASS.</head>
+                  <div type="part">
+                     <div type="section">
+                        <head>Of the Holy Altar, and what it ſignifies.</head>
+                        <p>
+                           <seg rend="decorInit">T</seg>O begin with the holy <hi>Altar,</hi> where the Vi<g ref="char:EOLhyphen"/>ctim for the Sacrifice of Redemption of all the World is offer'd: It ſignifies <hi>Mount Calvary,</hi> whereon Jeſus Chriſt (the only Son of God, and ſecond Perſon of the holy <hi>Tri<g ref="char:EOLhyphen"/>nity,</hi> our only Saviour) was Cruci<g ref="char:EOLhyphen"/>fied upon a reproachful <hi>Croſs.</hi> Which very word of <hi>Altar,</hi> we al<g ref="char:EOLhyphen"/>ſo find to have relation unto Sacri<g ref="char:EOLhyphen"/>fice, which muſt neceſſarily be of<g ref="char:EOLhyphen"/>fer'd to God in that Church where his true Faith is profeſs'd. And therefore this name of <hi>Altar</hi> is men<g ref="char:EOLhyphen"/>tion'd
+<pb n="2" facs="tcp:35686:3"/>by S. <hi>Paul,</hi> Heb. 13.10. <hi>We have an</hi> Altar <hi>whereof they have not power to eat, who ſerve the Taberna<g ref="char:EOLhyphen"/>cle.</hi> And 1 <hi>Cor.</hi> 9.13. and S. <hi>Mar.</hi> 5.24. All which is a warrant abun<g ref="char:EOLhyphen"/>dantly ſufficient for us to uſe this Name of <hi>Altar.</hi> Which alſo repre<g ref="char:EOLhyphen"/>ſents the Table whereon our Re<g ref="char:EOLhyphen"/>deemer did Celebrate his <hi>Last Sup<g ref="char:EOLhyphen"/>per,</hi> with his Diſciples, the night before his bitter <hi>Death</hi> and <hi>Paſſion.</hi>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>Altar</hi>-Cloaths.</head>
+                        <p>THe Linnen for the <hi>Altar,</hi> or the <hi>Altar</hi>-cloaths, are to be very pure and white; they repre<g ref="char:EOLhyphen"/>ſenting the purity of our bleſſed Sa<g ref="char:EOLhyphen"/>viour's Humanity, free from all ſtain of Sin, or diſorder'd Paſſion. That Linnen is alſo to be bleſs'd, to ſignifie the great Sanctity of the Life of Jeſus Chriſt; which we muſt endeavour, the beſt we can, to imitate.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the lighted Candles on the <hi>Altar.</hi>
+                        </head>
+                        <p>THe lighted Candles upon he <hi>Al<g ref="char:EOLhyphen"/>tar,</hi> admoniſh us, (according to S. <hi>Luke,</hi>) to be ready, in imitation
+<pb n="3" facs="tcp:35686:3"/>of the wiſe Virgins, with the Oyl of Good works in our Lamps, of True Faith, and to expect at the pronouncing theſe ſacred and ope<g ref="char:EOLhyphen"/>rative words of Conſecration, the real and true ſubſtantial preſence of that our Divine and Heavenly Spouſe;<note place="margin">
+                              <hi>Mat.</hi> 5.16</note> who requires the light of our Good Works ſo to ſhine before Men, as thereby they may be mo<g ref="char:EOLhyphen"/>ved to glorifie the Father who is in Heaven.</p>
+                        <p>The two Candles ſignifie the two Teſtaments of holy Scripture; the Old and New. They alſo ſignifie the light of Faith, revealed to the <hi>Jew</hi> and <hi>Gentile.</hi> And they adver<g ref="char:EOLhyphen"/>tiſe us of the great ſplendour, both of Faith, of Good Life, and Works, requir'd in the Celebrating of ſo high and dreadful a Myſtery.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>Croſs</hi> and <hi>Crucifix.</hi>
+                        </head>
+                        <p>THe <hi>Croſs,</hi> or <hi>Crucifix,</hi> is the principal Ornament upon the <hi>Altar,</hi> which ought never to be wanting at the Celebration of the <hi>Maſs.</hi> It betokens our Bleſſed Re<g ref="char:EOLhyphen"/>deemer's
+<pb n="4" facs="tcp:35686:4"/>Victory over Death, and is placed at the midſt of the <hi>Altar,</hi> moſt in view; to repreſent to our mind the <hi>Death</hi> and <hi>Paſſion</hi> of Jeſus Chriſt, which is there chiefly to be confider'd, and piouſly meditated in that holy Sacrifice.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the Chalice.</head>
+                        <p>THe <hi>Chalice</hi> doth repreſent the Cup, wherein our B. Saviour did Conſecrate his moſt precious Blood. <hi>Mat.</hi> 26. And it puts us in mind of his Sacred <hi>Paſſion;</hi> our B. Saviour himſelf ſo calling it: <hi>The Chalice of his Paſſion.</hi>
+                        </p>
+                     </div>
+                     <div type="section">
+                        <head>Of the Patten.</head>
+                        <p>THe <hi>Patten</hi> ſerves for the uſe of the Conſecrated Body of our Lord; as the <hi>Chalice</hi> doth for his moſt precious Blood. And as it covers the top of the <hi>Chalice,</hi> it re<g ref="char:EOLhyphen"/>preſents the ſtone which was roll'd againſt the door of the holy Se<g ref="char:EOLhyphen"/>pulchre, <hi>Mark</hi> 15.</p>
+                     </div>
+                     <div type="section">
+                        <pb n="5" facs="tcp:35686:4"/>
+                        <head>Of the Corporal.</head>
+                        <p>THe white Linnen Corporal, up<g ref="char:EOLhyphen"/>on which is Conſecrated the moſt precious Body and Blood of our Lord Jeſus Chriſt, doth repre<g ref="char:EOLhyphen"/>ſent to us that white and pure <hi>Syn<g ref="char:EOLhyphen"/>don</hi> wherein <hi>Joſeph</hi> of <hi>Arimathea</hi> in<g ref="char:EOLhyphen"/>volved his moſt ſacred Corps be<g ref="char:EOLhyphen"/>fore it was bury'd. The clean and bright purity whereof, doth aptly admoniſh all ſuch, as by the holy Communion, receive, and harbour within their Breaſts, this ſacred, and moſt precious Body of Jeſus Chriſt, to be chaſte and clean, both of Bo<g ref="char:EOLhyphen"/>dy and Soul, and endu'd with true purity of intention.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>Vail.</hi>
+                        </head>
+                        <p>THe <hi>Vail</hi> doth cover both <hi>Patten</hi> and <hi>Chalice</hi> all round about: and it repreſents to us the Hand<g ref="char:EOLhyphen"/>kerchief wherewith our Saviours moſt Divine Head was covered when he was laid in the Sepulchre: whereof mention is made, <hi>John</hi> 20. S. <hi>Peter</hi> having diſcover'd it in the
+<pb n="6" facs="tcp:35686:5"/>Sepulchre: <hi>And he there beheld the Linnen lying apart, and the Handker<g ref="char:EOLhyphen"/>chief which had been wrapp'd about his head.</hi>
+                        </p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>Of the ſeveral colours which the Church uſeth for Orna<g ref="char:EOLhyphen"/>ment; and the meaning of them.</head>
+                     <p>THe Prophet <hi>Ezekiel</hi> in his <hi>6th.</hi> chap. ſpeaking of the ſplendour of the Church, ſeems to place a great part of her glory in the vari<g ref="char:EOLhyphen"/>ous colours of her beautiful Robes. Which variety of myſtical colours, ſimbolizing with the ſeveral virtues of the glorious Saints, doth great<g ref="char:EOLhyphen"/>ly adorn, and beautify this holy Spouſe; and is to us a motive, and great encouragement to imitate thoſe holy virtues, which by theſe various colours uſed in the Church, are ſo fitly propos'd to our view.</p>
+                     <p>Nor was it without great reaſon, that God in the old Law appointed thoſe four different colours for the Prieſts and Churches Ornaments, which were; the colour <hi>biſſmus,</hi>
+                        <pb n="7" facs="tcp:35686:5"/>that is, a yellow colour like to that of raw Silk. The ſecond was <hi>purpu<g ref="char:EOLhyphen"/>reus;</hi> the Purple colour. The third was <hi>byacinthinus;</hi> that is a violet red blew, or violet purple. The fourth was <hi>coccineus;</hi> that is, a Scarlet or Crimſon colour. And as theſe different colours had their ſeveral myſtical meaning for the Peoples inſtruction; ſo I doubt not but the impartial Reader will con<g ref="char:EOLhyphen"/>feſs, no leſs to be contain'd in the meaning of theſe colours which the Church, (inſpired by the Holy Ghoſt,) hath appointed to be us'd in the Law of Grace, for the Or<g ref="char:EOLhyphen"/>nament of Chriſt's Holy Church, and for the Prieſts Veſtments be<g ref="char:EOLhyphen"/>longing to the ſame: as by this brief Declaration it will appear.</p>
+                     <div type="section">
+                        <head>What the White Colour uſed by the Church, means.</head>
+                        <p>THe white colour is uſed upon the Feaſts of Angels. Confeſſors, and Virgins. To repreſent to us the imitation of their holy Chaſti<g ref="char:EOLhyphen"/>ty and Saintly Purity. As alſo upon the ſolemn Feaſts of the Nativity
+<pb n="8" facs="tcp:35686:6"/>of our Lord and Saviour, upon the Reſurrection, Aſcenſion, <hi>Corpus Chriſti,</hi> and other the chiefeſt Feaſts of the greated Myſteries of our Faith; which are to be celebrated in the white colour of ſymbolizing Joy: as teſtifie our Saviours glo<g ref="char:EOLhyphen"/>rious ſpendor at his Transfigura<g ref="char:EOLhyphen"/>tion: the two Angels in white, who denounced his Reſurrection: and the joyful white of his Saints in Heaven, <hi>Apoc.</hi> 3.4. and <hi>Apoc.</hi> cap. 4. verſ. 4.</p>
+                     </div>
+                     <div type="section">
+                        <head>What is ſignified by the Red Colour.</head>
+                        <p>REd is the ſcarlet dye of our Bleſſed Saviour's Paſſion, and is the proper colour for the Churches Ornaments upon the Feaſts of the holy <hi>Croſs,</hi> of the Apoſtles, and bleſſed Martyrs; to ſhew that their glorious paſſage from this valley of miſery to Eter<g ref="char:EOLhyphen"/>nal Joy, was through the <hi>Red Sea</hi> of many Tribulations, and that their Glory was purchas'd with the price of their own dear blood. <hi>They dyed their Robes in the blood of the Lamb.</hi> Apoc. 7.</p>
+                     </div>
+                     <div type="section">
+                        <pb n="9" facs="tcp:35686:6"/>
+                        <head>What is ſignified by the Green Colour.</head>
+                        <p>THe Green colour is used in the Church, from the <hi>Octave</hi> of the <hi>Epiphanie,</hi> till <hi>Septuageſima:</hi> and from the <hi>Octave</hi> of <hi>Pentecoſt,</hi> till <hi>Advent</hi> excluſively: containing the greateſt part of the whole year, and is to be induſtriouſly imploy'd for our purchaſing Hea<g ref="char:EOLhyphen"/>ven, which is to be got by vigo<g ref="char:EOLhyphen"/>rous force, well repreſented by this colour, the Hieroglifick of Youth and conſequently beto<g ref="char:EOLhyphen"/>kening this couragious and vigo<g ref="char:EOLhyphen"/>rous ſtrength in virtuous Exerciſes, whereby that Coeleſtial City is to be conquered.</p>
+                     </div>
+                     <div type="section">
+                        <head>What the Violet Colour means.</head>
+                        <p>THe Violet colour, is a kind of blew, and reſembles the colour of the Sky of Heaven; which we muſt know to be faſt ſhut againſt all ſinners, who by their true repen<g ref="char:EOLhyphen"/>tance ſhall not amend. And there<g ref="char:EOLhyphen"/>fore this colour is us'd in the
+<pb n="10" facs="tcp:35686:7"/>Church, all <hi>Lent,</hi> and <hi>Advent,</hi> the proper times allotted for the pra<g ref="char:EOLhyphen"/>ctiſe of the worthy fruits of holy Penance, and ſatisfaction for our ſins; the only unhappy Bar of the Gate of Heaven againſt our Souls.</p>
+                     </div>
+                     <div type="section">
+                        <head>What the Black Colour means.</head>
+                        <p>BLack is the Mourning Stan<g ref="char:EOLhyphen"/>dard of the Church, diſplay'd upon her <hi>Altars,</hi> and other Orna<g ref="char:EOLhyphen"/>ments in the mournful times where<g ref="char:EOLhyphen"/>in we celebrate the <hi>Death</hi> and <hi>Paſ<g ref="char:EOLhyphen"/>ſion</hi> of our Loving Lord, and Di<g ref="char:EOLhyphen"/>vine Redeemer Jeſus Chriſt. It is uſed alſo at the Office of the Dead; thereby to teſtify as well a civil re<g ref="char:EOLhyphen"/>ſpect from Nature for the preſent ſeparation from our Friends; as to ſtir alſo up, and move in us there<g ref="char:EOLhyphen"/>by a true compaſſion of their Souls temporal great pain in <hi>Purgatory,</hi> for whoſe ſpeedy relief we ought moſt heartily to pray.</p>
+                        <p>Having briefly here ſpoke of the quality, and colours of the chief Ornaments belonging to the <hi>Altar;</hi> I will with like brevity treat alſo about the Veſtments and Attire be<g ref="char:EOLhyphen"/>longing
+<pb n="11" facs="tcp:35686:7"/>to the Prieſt for Celebra<g ref="char:EOLhyphen"/>tion of the holy Sacrifice of the <hi>Maſs,</hi> that high Function and ſu<g ref="char:EOLhyphen"/>premeſt Divine Homage which can be done to God by any Crea<g ref="char:EOLhyphen"/>ture.</p>
+                        <p>And therefore thoſe Ornaments, if not very rich, at leaſt ought to be comely and very deceat, as well in regard of that great Reve<g ref="char:EOLhyphen"/>rence which is moſt due to thoſe Sacred Myſteries; as alſo that thoſe Divine actions ſhould be had in greater veneration; and thereby more movingly repreſent to us Chriſts bitter <hi>Death</hi> and <hi>Paſſon;</hi> as I ſhall hereby declare by the mea<g ref="char:EOLhyphen"/>ning of thoſe ſeveral Ornaments: obſerving firſt the great Antiquity and uſe of thoſe Holy Ornaments; which well appears in <hi>England</hi> by that of S. <hi>Gregory</hi> the <hi>Great,</hi> who, above a thouſand years ago, did ſend into our Countrey, Veſſels for the <hi>Altar,</hi> Relicks, Books, and Or<g ref="char:EOLhyphen"/>naments for the Prieſts and Clerks; as both S. <hi>Bede,</hi> and moſt Hyſtori<g ref="char:EOLhyphen"/>ans do declare.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <pb n="12" facs="tcp:35686:8"/>
+                     <head>The meaning of the Sa<g ref="char:EOLhyphen"/>cred Ornaments which the Prieſt doth wear in Celebrating the Holy <hi>Maſs.</hi>
+                     </head>
+                     <div type="section">
+                        <head>What the <hi>Amice,</hi> or firſt Ornament the Prieſt puts on when he goes to celebrate, doth mean.</head>
+                        <p>THe <hi>AMICE</hi> which the Prieſt puts over his head, doth ſig<g ref="char:EOLhyphen"/>nifie the Humanity of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, under which lay hid and cover'd his moſt Sacred Divi<g ref="char:EOLhyphen"/>nity. 2. It ſignifies the Linnen Napkin wherewith this our mer<g ref="char:EOLhyphen"/>ciful Redeemer was blind-folded, and after ſtruck upon the Face by thoſe ſacriligeous <hi>Jews,</hi> then ſaying to him, <hi>Propheſy to us, Chriſt, who is he that ſtruck thee?</hi>
+                           <note place="margin">
+                              <hi>Mat.</hi> 26.</note> By which outragi<g ref="char:EOLhyphen"/>ous injury, ſuffer'd for our ſakes, he purchas'd Grace, enabling us to behold him face to face, in Eter<g ref="char:EOLhyphen"/>nal Glory.</p>
+                        <pb n="13" facs="tcp:35686:8"/>
+                        <p>In putting it on, he ſaith, <hi>put on, O Lord, the Helmet of Salvation up<g ref="char:EOLhyphen"/>on my head, that I may overcome all diabolical temptations.</hi> Amen.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>ALBE.</hi>
+                        </head>
+                        <p>THe <hi>Albe,</hi> or long white Gar<g ref="char:EOLhyphen"/>ment, doth ſignifie the Robe of Innocency, given us in the Sa<g ref="char:EOLhyphen"/>crament of <hi>Baptiſm:</hi> It repreſents alſo the white Garment which <hi>He<g ref="char:EOLhyphen"/>rod</hi> put upon our Saviour, repu<g ref="char:EOLhyphen"/>ting him as an Ideot, when,<note place="margin">
+                              <hi>Luke</hi> 22.</note> with mockery and deriſion he ſent him back to <hi>Pilate.</hi>
+                        </p>
+                        <p>The Prieſt putting it on, ſaith, <hi>Make me white O Lord, and cleanſe my heart; that being whit'ned in the Blood of the Lamb, I may enjoy Eter<g ref="char:EOLhyphen"/>nal Gladneſs.</hi> Amen.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>Girdle.</hi>
+                        </head>
+                        <p>THe <hi>Girdle</hi> which the Prieſt puts about him, doth ſigni<g ref="char:EOLhyphen"/>fy the Cord wherewith our Saviour was bound to the Pillar, when the cruel Souldiers ſcourch'd him. The two ends of the Girdle turn'd up; the one on the right ſide, and the
+<pb n="14" facs="tcp:35686:9"/>other on the left, do ſignifie the two means to conſerve our Chaſti<g ref="char:EOLhyphen"/>ty; which are Faſting and Prayer, whereby we ſubdue the Fleſh, and ſtrengthen the Spirit, The Prieſt when he putteth the <hi>Girdle</hi> about him, ſaith, <hi>Gird me O Lord, with the Girdle of Pu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y, and quench in my Loyns the humour of Luſt, that there may remain in me the virtue of Continency and Chastity.</hi> Amen.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>Maniple.</hi>
+                        </head>
+                        <p>THe <hi>Maniple</hi> repreſents to us the Cords which bound our Saviour's hands and arms when he was dragg'd from place to place, and from one Judge to on other. It is put on the left Arm (which is neareſt to the heart) to declare with what love and affection he en<g ref="char:EOLhyphen"/>dur'd all theſe outragious injuries to expiate our ſins.</p>
+                        <p>When the Prieſt putteth the <hi>Maniple</hi> upon his Arm, he ſaith, <hi>Vouchſafe me, O Lord, ſo to bear the</hi> Maniple <hi>of weeping and ſorrow, that I may receive the reward of my labour with Exultation.</hi> Amen.</p>
+                        <pb n="15" facs="tcp:35686:9"/>
+                        <p>Which Prayer alſo alludes to the antient devouter times, which us'd this <hi>Maniple</hi> as a Linnen cloath or Handkerchief to wipe their tears, which their fervent Piety made of<g ref="char:EOLhyphen"/>ten to run in abundance from their eyes.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the <hi>Stole.</hi>
+                        </head>
+                        <p>THe <hi>Stole,</hi> which the Prieſt put<g ref="char:EOLhyphen"/>teth about his Neck, doth ſig<g ref="char:EOLhyphen"/>nifie the Yoak of Obedience, even unto death upon the <hi>Croſs;</hi> where<g ref="char:EOLhyphen"/>unto our Lord Jeſus ſubmitted himſelf for our Redemption. The Prieſt kiſſeth the <hi>Croſs</hi> which is up<g ref="char:EOLhyphen"/>on the middle of it when he put<g ref="char:EOLhyphen"/>teth it on; to ſhew his chearful willingneſs to bear the ſweet Yoak of Chriſt's <hi>Croſs</hi> with all patience in tribulation. He puts the two ends overthwart his Breaſt in form of a <hi>Croſs,</hi> repreſenting (ſaith S. <hi>Bonaventure,</hi>) the Paſſion of Jeſus Chriſt, which the Prieſt ought to have moſt ſeriouſly fixed in his heart.</p>
+                        <p>The <hi>Stole</hi> alſo doth properly ſig<g ref="char:EOLhyphen"/>nifie that long Rope about our Sa<g ref="char:EOLhyphen"/>viours Neck, whereby thoſe Bar<g ref="char:EOLhyphen"/>barous
+<pb n="16" facs="tcp:35686:10"/>Executioners dragg'd him, charg'd with the heavy <hi>Croſs</hi> upon his Neck and Bloody Shoulders. The two <hi>Croſſes</hi> at the ends of the <hi>Stole,</hi> hanging on either ſide of the Prieſt, do ſignifie the <hi>Croſses</hi> where<g ref="char:EOLhyphen"/>on the Two Theeves were Cruci<g ref="char:EOLhyphen"/>fied by him, one on the right hand, and the other on the left; and the <hi>Croſs</hi> in the middle, repre<g ref="char:EOLhyphen"/>ſents that whereon himſelf was Crucified, in the middle betwixt them both.</p>
+                        <p>The Prieſt in putting on the <hi>Stole,</hi> ſaith, <hi>Render me, O Lord, the</hi> Stole <hi>of immortality, which I have loſt by the prevarication of my firſt Parents, that, though I approach un<g ref="char:EOLhyphen"/>worthily to thy holy Myſteries, yet may I deſire joys everlasting.</hi> Amen.</p>
+                     </div>
+                     <div type="section">
+                        <head>Of the Veſtment.</head>
+                        <p>THe <hi>Veſtment,</hi> repreſents that Purple Garment wherewith the <hi>Jews</hi> did cloath our Lord and Sa<g ref="char:EOLhyphen"/>viour, after that his moſt tender Body was all in gory Blood, with thoſe cruel ſtripes; and in ſcorn<g ref="char:EOLhyphen"/>ful mockery expos'd him to the Peo<g ref="char:EOLhyphen"/>ples view, with a Reed in his hand,
+<pb n="17" facs="tcp:35686:10"/>and a Crown of Thorns on his Head, ſaying,<note place="margin">
+                              <hi>John</hi> 19.</note> 
+                           <hi>Ecce Homo.</hi> Behold the Man.</p>
+                        <p>This <hi>Vestment</hi> conſiſts of two parts, which ſignifie the two-fold Charity; the one towards God, (which is the larger) the other towards our Neigh<g ref="char:EOLhyphen"/>bour;<note place="margin">
+                              <hi>Deut.</hi> 6.</note> we being comman<g ref="char:EOLhyphen"/>ded to love God above all things, and our Neighbour as our ſelves. The great <hi>Croſs</hi> upon the back of the <hi>Veſtment,</hi> is to put us in mind of our Divine Redeemer as he went forth of <hi>Jeruſalem,</hi> carrying his heavy <hi>Croſs</hi> upon his wounded Shoulders. Finally, the Prieſt, when he puts on the <hi>Veſtment,</hi> ſaith, <hi>Lord, who aſſureſt us that thy Yoke is ſweet, and thy Burthen light, vouchſafe that I may ſo wear it, that thereby I may obtain thy boly Grace.</hi> Amen.</p>
+                     </div>
+                     <div type="section">
+                        <head>What the Prieſt thus attired, doth repreſent to us.</head>
+                        <p>THe Prieſt coming forth to the Sacrifice thus attir'd with theſe holy. Ornaments, doth repreſent
+<pb n="18" facs="tcp:35686:12"/>our bleſſed Saviour led forth thro the ſtreets of <hi>Jeruſalem,</hi> to his bit<g ref="char:EOLhyphen"/>ter <hi>Death</hi> and <hi>Paſſion.</hi> And by the <hi>Altar</hi> is ſignified, <hi>Mount Calvary,</hi> upon which he was Crucified for our Redemption.</p>
+                        <p>And it is worthy to be here no<g ref="char:EOLhyphen"/>ted, that who mock and ſcorn both at theſe holy Ornaments, as like<g ref="char:EOLhyphen"/>wiſe at the Prieſt for wearing them, do rightly reſemble the ſpiteful <hi>Jews,</hi> who moſt blaſphe<g ref="char:EOLhyphen"/>mouſly mock'd and ſcorn'd our Sa<g ref="char:EOLhyphen"/>viour Jeſus Chriſt himſelf, in the Purple Robe and Thorny Crown, which they had put upon him for that end.</p>
+                     </div>
+                     <div type="section">
+                        <head>What is repreſented by the Clerk carrying the Book before the Prieſt.</head>
+                        <p>THe Clark carrying the Book be<g ref="char:EOLhyphen"/>fore the Prieſt, doth repreſent the Angel <hi>Gabriel</hi> who brought the good tidings of our Saviour be<g ref="char:EOLhyphen"/>coming incarnate for our Salvation; which is a high Office, and ought to be uſed by the Clark with all de<g ref="char:EOLhyphen"/>vout Piety and Reverence. And,
+<pb n="19" facs="tcp:35686:12"/> would Chriſtians but conſider the <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>onour and infinite great ſpiritual gains which are to be got by thoſe who have the happineſs to ſerve their Sovereign Lord with due Re<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>erence and Devotion in that near approaching Office: they would not permit, nor make it, (as they do) their Lackeys imployment, nor would they ſuffer their Servant to deprive them of that honour, whereof the greateſt Mortal Prince is far unworthy.</p>
+                     </div>
+                     <div type="section">
+                        <head>Wherefore the <hi>Miſſal</hi> is laid firſt on the right ſide of the <hi>Altar.</hi>
+                        </head>
+                        <p>THe Clark carrieth the Book to the right end of the <hi>Altar,</hi> where he layeth it down ſhut, to be opened afterwards by the Prieſt himſelf. Hereby to ſignifie to us how the holy Goſpel was firſt mani<g ref="char:EOLhyphen"/>feſt to the <hi>Jews,</hi> as is teſtified, <hi>Acts</hi> 13. <hi>To you it behoved us firſt to to ſpeak the Word of God.</hi>
+                        </p>
+                        <pb n="18" facs="tcp:35686:11"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                        <pb n="19" facs="tcp:35686:11"/>
+                        <gap reason="duplicate" extent="1 page">
+                           <desc>〈1 page duplicate〉</desc>
+                        </gap>
+                     </div>
+                     <div type="section">
+                        <pb n="20" facs="tcp:35686:13"/>
+                        <head>Wherefore the Book is ſhut when it is laid upon the <hi>Altar.</hi>
+                        </head>
+                        <p>THe Book is ſhut, to ſhew that all things were cloſed under dark ſhadows and figures, until the coming of Jeſus Chriſt, who re<g ref="char:EOLhyphen"/>vealed the Myſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eries of our holy Faith to the Apoſtles. And ſo ought the Prieſt to Preach, to Teach, and to lay open the Word of God and the holy Scripture to the People; as his there laying open the Book doth ſignifie.</p>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <p>THe Prieſt in this ſort adorned, and accompanied with the Clark to aſſiſt him, having placed the <hi>Chalice</hi> upon the <hi>Altar,</hi> and opened the Book, deſcends to the loweſt ſtep; where, in imitation of the humble <hi>Publican,</hi> he profound<g ref="char:EOLhyphen"/>ly boweth himſelf to the Crucifix, ſaying,<note place="margin">Luke <hi>18.</hi>
+                        </note> (at leaſt in his heart) <hi>God be merciful to me a Sinner.</hi> And then with all fervent Devotion, and true
+<pb n="21" facs="tcp:35686:13"/>Reverence, he beginneth the moſt holy Sacrifice of the <hi>Maſs,</hi> in which <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>eſus Chriſt, true God and Man, <gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s really offered; the memory of his <hi>Death</hi> and <hi>Paſſion</hi> is renew'd; his Sacred Merits are thereby apply'd in remiſſion of our Sins; our Souls are repleniſhed with many heaven<g ref="char:EOLhyphen"/>ly Benedictions; and therein is gi<g ref="char:EOLhyphen"/>ven unto us the happy pledge of Future and Eternal Glory.</p>
+                     <p>And the faithful Chriſtian aſſi<g ref="char:EOLhyphen"/>ſting devoutly at this Holy Sacri<g ref="char:EOLhyphen"/>fice, doth offer, together with the Prieſt, the ſelf-ſame <hi>Victim</hi> in ex<g ref="char:EOLhyphen"/>piation for his Sins, which was of<g ref="char:EOLhyphen"/>fered upon the <hi>Croſs</hi> for the Re<g ref="char:EOLhyphen"/>demption of all the World, it being the ſelf-ſame Price and Satisfaction of Application upon the <hi>Altar,</hi> as it was of Redemption upon the <hi>Croſs.</hi> And it is that clean and pure Sacrifice foretold and promis'd alſo b the Pro<g ref="char:EOLhyphen"/>phet <hi>Malacky</hi> to be conti<g ref="char:EOLhyphen"/>nually,<note place="margin">
+                           <hi>Mal.</hi> c. 1.</note> and in all places offered in his Name.</p>
+                     <p>All which ſeriouſly conſidered, Oh! with what Affection, Reve<g ref="char:EOLhyphen"/>rence, Purity and Devotion ought
+<pb n="22" facs="tcp:35686:14"/>we to aſſiſt at this Divine Sacrifice: ſo venerable unto Angels, as may greatly confound our Impiety, and little true reſpect we bear to thoſe dreadful Myſteries: at which, Oh! how uſually do careleſs Chriſtians (to their great reproach,) aſſiſt with leſs reſpect and Reverence, than they durſt appear in a Princes Chamber.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="publishers_advertisement">
+                  <head>ADVERTISEMENTS.</head>
+                  <p>The <hi>Succeſſion</hi> of the <hi>Church</hi> and <hi>Sacraments,</hi> from <hi>Chriſt</hi> and his <hi>Apoſtles,</hi> to the end of the World; cleared and ſtated according to the Antient Doctrine of the <hi>Greek</hi> and <hi>Latine</hi> Fathers. Price <hi>6</hi> d.</p>
+                  <p>A ſhort <hi>Catechiſm</hi> by way of <hi>Que<g ref="char:EOLhyphen"/>ſtion</hi> and <hi>Anſwer:</hi> The Anſwers of which, are taken from expreſs words of Scripture: With ſome plain In<g ref="char:EOLhyphen"/>ferences ariſing from the ſaid Texts concerning <hi>Succeſſion</hi> and the <hi>Bleſſed Sacrament.</hi>
+                  </p>
+                  <p>A brief Diſcourſe of <hi>Confeſſion</hi> to a Lawful <hi>Prieſt.</hi> Wherein is trea<g ref="char:EOLhyphen"/>ted of the <hi>Laſt Judgement.</hi> Price bound <hi>1</hi> s.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:35686:14" rendition="simple:additions"/>
+                  <p>THE METHOD Of ſaying the ROSARY Of Our BLESSED LADY: As it was Ordered by Pope <gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>IUS the Fifth, of the Holy Order of <hi>Preachers;</hi> And as it is ſaid in Her <hi>Majeſties</hi> Chappel at St. JAMES's.</p>
+                  <p>The Sixteenth Edition.</p>
+                  <figure>
+                     <figDesc>flower: printer's device?</figDesc>
+                     <p>MRA</p>
+                  </figure>
+                  <p>At <hi>London,</hi> In the Year 1686.</p>
+               </div>
+            </front>
+            <body>
+               <div type="text">
+                  <pb n="2" facs="tcp:35686:15"/>
+                  <head>An ADVERTISEMENT, Concerning the following Me<g ref="char:EOLhyphen"/>thod of ſaying the <hi>ROSARY.</hi>
+                  </head>
+                  <p>THE Devotion of the <hi>Roſary,</hi> ſo called, becauſe it is, as it were, a <hi>Chaplet</hi> of <hi>Spiritual Ro<g ref="char:EOLhyphen"/>ſes;</hi> that is, of moſt ſweet and de<g ref="char:EOLhyphen"/>vout <hi>Prayers,</hi> was firſt revealed by the B. Virgin to St. <hi>Dominick,</hi> (the Father and Founder of the Holy Or<g ref="char:EOLhyphen"/>der of <hi>Preachers</hi>) as a Devotion moſt efficacious for the obtaining all favours from God, and averting all evils from our ſelves. It conſiſts of Fifteen <hi>Pater Noſter's,</hi> and a Hundred and fifty <hi>Ave Mary's,</hi> and is divided into three Parts, whereof each contains in it Five <hi>Decads;</hi> that is, Five <hi>Pater Noſter's,</hi> and Fifty <hi>Ave Mary's.</hi>
+                  </p>
+                  <p>To each of theſe <hi>Decads</hi> in the following Method is aſsigned one of the principal Myſteries of the Life of our Saviour, or his B. Mother, as matter of <hi>Meditation,</hi> wherein the Mind is to exerciſe it ſelf while it prays, and therefore is prefixed before the beginning of each <hi>De<g ref="char:EOLhyphen"/>cad.</hi>
+                  </p>
+                  <pb n="3" facs="tcp:35686:15"/>
+                  <p>The Myſteries alſo in number Fifteen, are divided into three Parts, anſwerable to the three Parts of the <hi>Roſary;</hi> that is, into Five <hi>joyful Myſteries</hi> for the firſt part of the <hi>Roſary;</hi> Five <hi>Sorrowful,</hi> for the Second, and five <hi>Glorious</hi> for the Third.</p>
+                  <p>Now the uſe of the following Method or manner of ſaying the <hi>Roſary,</hi> conſiſteth in a devout Ap<g ref="char:EOLhyphen"/>plication or Attention of the Mind to the Myſtery aſsigned, while the <hi>Decad</hi> is ſaying, and raiſing cor<g ref="char:EOLhyphen"/>reſpondent Affection in the Will, ſuch as the Devotion and neceſsity of each one ſhall ſuggeſt: For exam<g ref="char:EOLhyphen"/>ple, in the firſt part, of <hi>Joy and Thankſgiving</hi> for the coming of our <hi>Redeemer,</hi> and the <hi>great work</hi> of our <hi>Redemption.</hi> In the ſecond, of <hi>Compaſſion for the ſuffering of our Lord,</hi> and <hi>Contrition for our ſins which were the cauſe of them.</hi> In the third, of <hi>Exaltation of the Glory of our Saviour,</hi> and his <hi>B. Mother,</hi> and hope through the Merits of his Paſsion, and her Interceſsion, to be made partakers of Glory with them.</p>
+                  <pb n="4" facs="tcp:35686:16"/>
+                  <p>He that ſhall ſay the <hi>Roſary</hi> with this attention of Mind, and affe<g ref="char:EOLhyphen"/>ction of Will, ſhall undoubtedly give much Glory to God, and reap much benefit to his own Soul; which was the Intention of <hi>Pope PIUS</hi> the <hi>Fifth,</hi> (a moſt pious Son of St. <hi>Do<g ref="char:EOLhyphen"/>minick</hi>) in ordering; and is the en<g ref="char:EOLhyphen"/>deavour at preſent of one of the meaneſt among the Sons of ſo glori<g ref="char:EOLhyphen"/>ous a Father, in publiſhing the Me<g ref="char:EOLhyphen"/>ditations and Prayers, as they are ſet down in the following Method.</p>
+                  <div type="part">
+                     <head>The Joyful Mysteries aſſig<g ref="char:EOLhyphen"/>ned for <hi>Mundays</hi> and <hi>Thurſ<g ref="char:EOLhyphen"/>days</hi> through the Year, and <hi>Sun<g ref="char:EOLhyphen"/>days</hi> in <hi>Advent,</hi> and after <hi>Epi<g ref="char:EOLhyphen"/>phany,</hi> till <hi>Lent.</hi>
+                     </head>
+                     <div n="1" type="mystery">
+                        <head>The Firſt Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us contemplate on this Myſtery how the Angel <hi>Gabriel</hi> ſaluted our Bleſſed Lady with the Title of <hi>Full of grace;</hi> and declared unto her the Incar<g ref="char:EOLhyphen"/>nation
+<pb n="5" facs="tcp:35686:16"/>of our Lord and Saviour <hi>Jeſus Chriſt.</hi>
+                           </p>
+                        </div>
+                        <div type="meditation">
+                           <head>Then ſay, <hi>Our Father,</hi> &amp;c. once. <hi>Hail Mary,</hi> Ten times.</head>
+                           <p>
+                              <hi>O<g ref="char:V">Ʋ</g>R Father which art in Hea<g ref="char:EOLhyphen"/>ven, hallowed be thy Name. Thy Kingdom come; thy will be done on Earth, as it is in Heaven: Give us this day our daily Bread: And forgive us our treſpaſſes, as we forgive them that treſpaſs againſt us; and lead us not into temptation: But deliver us from evil.</hi> Amen.</p>
+                           <p>HAil <hi>Mary,</hi> full of Grace, our Lord is with thee. Bleſſed art thou amongſt Women; and bleſſed is the Fruit of thy Womb, <hi>Jeſus.</hi> Holy <hi>Mary,</hi> Mother of God, pray for Us Sinners, now, and in the hour of our Death.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Holy <hi>Mary,</hi> Queen of <g ref="char:V">Ʋ</g>ir<g ref="char:EOLhyphen"/>gins, by the moſt High My<g ref="char:EOLhyphen"/>ſtery of the Incarnation of thy be<g ref="char:EOLhyphen"/>loved Son, our Lord <hi>Jeſus Chriſt,</hi> by which our Salvation was ſo hap<g ref="char:EOLhyphen"/>pily begun, obtain for us by thy In<g ref="char:EOLhyphen"/>terceſsion, light to know this ſo
+<pb n="6" facs="tcp:35686:17"/>great Benefit, which he hath be<g ref="char:EOLhyphen"/>ſtowed upon us, vouchſafing in it, to make himſelf our Brother, and thee his own moſt beloved Mother, our Mother alſo.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="2" type="mystery">
+                        <head>The Second Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us Contemplate on this Myſtery how the Bleſſed Virgin <hi>Mary,</hi> underſtanding from the Angel, that her Couſin, St. <hi>Elizabeth</hi> had conceived, went with haſt into the Mountains of <hi>Judea</hi> to viſit her, and remained with her three Months.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Holy <g ref="char:V">Ʋ</g>irgin, moſt ſpotleſs Mirrour of Humility; by that exceeding Charity which mo<g ref="char:EOLhyphen"/>ved thee to viſit thy Holy Couſin, St. <hi>Elizabeth;</hi> obtain for us by thy Interceſsion, that our hearts may be ſo viſited by thy moſt Holy Son; that free from all ſin, we may praiſe him, and give him thanks for ever.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="3" type="mystery">
+                        <pb n="7" facs="tcp:35686:17"/>
+                        <head>The Third Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us Contemplate on this Myſtery, how the Bleſſed Virgin <hi>Mary,</hi> when the time of her Delivery was come, brought forth our Redeemer <hi>Chriſt Jeſus</hi> at Midnight, and laid him in a Manger, becauſe there was no room for him in the Innes in <hi>Bethlehem.</hi>
+                           </p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Moſt pure Mother of God, by thy <g ref="char:V">Ʋ</g>irginal and moſt joy<g ref="char:EOLhyphen"/>ful Delivery, by which thou gaveſt unto the World thy only Son our Sa<g ref="char:EOLhyphen"/>viour; we beſeech thee obtain for us (by thy Interceſsion) Grace to lead ſo pure and Holy a Life in this World, that we may worthily ſing without ceaſing, both Day and Night, the Mercies of thy Son, and his Benefits to us by thee.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="4" type="mystery">
+                        <head>The Fourth Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LET us Contemplate in this Myſtery, how the moſt
+<pb n="6" facs="tcp:35686:18"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="7" facs="tcp:35686:18"/>
+                              <gap reason="duplicate" extent="1 page">
+                                 <desc>〈1 page duplicate〉</desc>
+                              </gap>
+                              <pb n="8" facs="tcp:35686:19"/>Bleſſed Virgin <hi>Mary,</hi> on the day of her Purification preſented the Child <hi>Jeſus</hi> in the Temple, where Holy <hi>Simeon</hi> giving thanks to God, with great Devotion re<g ref="char:EOLhyphen"/>ceived him into his arms.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Holy <g ref="char:V">Ʋ</g>irgin, moſt admirable Miſtreſs and Pattern of O<g ref="char:EOLhyphen"/>bedience; who didst preſent in the Temple, the Lord of the Temple; obtain for us by thy beloved Son, that with holy <hi>Simeon</hi> and devout <hi>Anna,</hi> we may praiſe and gloriſie him for ever.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="5" type="mystery">
+                        <head>The Fifth Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LET Us Contemplate in this Myſtery, how the Bleſſed Virgin <hi>Mary,</hi> having loſt with<g ref="char:EOLhyphen"/>out any fault of hers, her beloved Son in <hi>Jeruſalem;</hi> ſhe ſought him for the ſpace of three days, and at length found him the third day in the Temple, in the midſt of the Doctors diſputing with them, being of the age of twelve years.</p>
+                        </div>
+                        <div type="prayer">
+                           <pb n="9" facs="tcp:35686:19"/>
+                           <head>The Prayer.</head>
+                           <p>MOſt bleſſed <g ref="char:V">Ʋ</g>irgin more than Martyr in thy ſuffering, and yet the comfort of ſuch as are affli<g ref="char:EOLhyphen"/>cted; by that unſpeakable Joy where<g ref="char:EOLhyphen"/>with thy Soul was raviſhed in fin<g ref="char:EOLhyphen"/>ding thy beloved Son in the Temple, in the midst of the Doctors diſpu<g ref="char:EOLhyphen"/>ting with them; obtain of him for us, ſo to ſeek him, and to find him in the Holy Catholick Church that we may never be ſeparated from him.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                        <div type="prayer">
+                           <head>Salve Regina.</head>
+                           <p>HAil Holy Queen, Mother of Mercy, our Life, our Sweetneſs, and our Hope; to Thee do we cry, poor baniſhed Sons of <hi>Eve:</hi> to Thee do we ſend up our ſighs, mourning and weeping in this Valley of Tears: turn then moſt gracious Advo<g ref="char:EOLhyphen"/>cate, thy Eyes of Mercy towards Us, and after this our Exile en<g ref="char:EOLhyphen"/>ded, ſhew unto Us the bleſſed Fruit of thy Womb, <hi>Jeſus.</hi> O moſt clement, moſt pious, and moſt ſweet Virgin <hi>Mary.</hi>
+                           </p>
+                           <pb n="10" facs="tcp:35686:20"/>
+                           <p>Verſ. <hi>Pray for <g ref="char:V">Ʋ</g>s Holy Mother of God.</hi>
+                           </p>
+                           <p>℟ That we may be made worthy of the Promiſes of Chriſt.</p>
+                        </div>
+                        <div type="prayer">
+                           <opener>Let us pray.</opener>
+                           <p>HEar, O merciful God, the prayer of thy Servants, that we who meet together in the Society of the most Holy <hi>Roſary</hi> of the B. <g ref="char:V">Ʋ</g>irgin, Mother of God, by her In<g ref="char:EOLhyphen"/>terceſsion, may by Thee, be deliver'd from the dangers that continually hang over us.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>The Dolorous, or ſorrowful Myſteries for <hi>Tueſdays</hi> and <hi>Fri<g ref="char:EOLhyphen"/>days</hi> through the Year, and the <hi>Sundays</hi> in <hi>Lent.</hi>
+                     </head>
+                     <div n="1" type="mystery">
+                        <head>The Firſt Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LET us Contemplate in this Myſtery, how our Lord <hi>Jeſus</hi> was ſo afflicted for Us in the Garden of <hi>Gethſemani,</hi> that his Body was bathed in a Bloody
+<pb n="11" facs="tcp:35686:20"/>Sweat, which ran trickling down in great drops unto the ground. <hi>Our Father, Hail</hi> Mary, as before.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>MOſt Holy <g ref="char:V">Ʋ</g>irgin, more than Martyr, by that ardent Prayer, which thy beloved Son poured forth unto his Father in the Garden, vonchſafe to intercede for us, that our paſsions reduced to the obedience of Reaſon, we may always, and in all things conform, and ſubject our ſelves to the Will of God.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="2" type="mystery">
+                        <head>The Second Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us Contemplate on this Myſtery, how our Lord <hi>Jeſus Chriſt</hi> was moſt cruelly ſcourged in <hi>Pilate</hi>'s Houſe, the number of the Stripes they gave him, being above five thouſand. (<hi>As it was revealed by St.</hi> Briget.)</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Mother of God, over-flowing Fountain of Patience, by thoſe ſtripes thy only and most beloved Son vouchſafed to ſuffer for us, obtain of him for us Grace, that we may
+<pb n="12" facs="tcp:35686:21"/>know how to mortifie our rebellious ſenſes, and cut off all occaſions of ſin<g ref="char:EOLhyphen"/>ning, with that Sword of grief and compaſsion which pierced thy most tender Soul.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="3" type="mystery">
+                        <head>The Third Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us contemplate in this My<g ref="char:EOLhyphen"/>ſtery, how thoſe cruel Mi<g ref="char:EOLhyphen"/>niſters of Satan platted a Crown of ſharp thorns, and moſt cruelly preſſed it on the Moſt Sacred Head of our Lord <hi>Jeſus Chriſt.</hi>
+                           </p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Mother of our Eternal Prince and King of Glory, by thoſe ſharp Thorns, wherewith his moſt holy Head was pierced; we beſeech thee, that by thy Interceſsion we may be deliver'd here from all mo<g ref="char:EOLhyphen"/>tions of Pride, and in the day of Judgement from that confuſion, which our ſins deſerve.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="4" type="mystery">
+                        <head>The Fourth Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt Us contemplate in this Myſtery, how our Lord
+<pb n="13" facs="tcp:35686:21"/>
+                              <hi>Jeſus Chriſt,</hi> being ſentenced to die, bore with great patience the Croſs, which was laid upon him for his greater torment and ig<g ref="char:EOLhyphen"/>nominy.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Holy Virgin, example of pa<g ref="char:EOLhyphen"/>tience, by the moſt painful carrying of the Croſs, in which thy Son our Lord <hi>Jeſus Chriſt,</hi> bore the heavy weight of our ſins, obtain for us of him by thy Interceſsion, courage and ſtrength to follow his ſteps, and bear our Croſs after him unto the end of our life.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="5" type="mystery">
+                        <head>The Fifth Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us contemplate in this My<g ref="char:EOLhyphen"/>ſtery, how our Lord <hi>Jeſus Christ,</hi> being come to Mount <hi>Cal<g ref="char:EOLhyphen"/>vary,</hi> was ſtript of his Cloaths, and his Hands and Feet moſt cruelly nailed to the Croſs in the preſence of his moſt afflicted Mother.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Holy <hi>Mary,</hi> Mother of God, as the Body of thy beloved Son
+<pb n="14" facs="tcp:35686:22"/>was for us extended on the Croſs, ſo may our deſires be dayly more and more ſtretched out in his Service, and our hearts wounded with com<g ref="char:EOLhyphen"/>paſsion of his moſt bitter paſsion. And Thou, O moſt Bleſſed Virgin, vouchſafe to negotiate for and with us, the work of our Salvation by thy Powerful Interceſsion.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                        <div type="prayer">
+                           <p>Glory be to the Father, <hi>&amp;c.</hi>
+                           </p>
+                           <p>Hail Holy Queen, <hi>&amp;c.</hi> with the Verſe and Prayer.</p>
+                        </div>
+                     </div>
+                  </div>
+                  <div type="part">
+                     <head>The Glorious Myſteries for <hi>Wedneſdays,</hi> and <hi>Saturdays</hi> through the year, and <hi>Sundays</hi> after <hi>Eaſter</hi> until <hi>Advent.</hi>
+                     </head>
+                     <div n="1" type="mystery">
+                        <head>The Firſt Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us contemplate in this My<g ref="char:EOLhyphen"/>ſtery, how our Lord <hi>Jeſus Chriſt</hi> triumphing gloriouſly over Death, roſe again the third day Immortal and Impoſſible.</p>
+                           <p>
+                              <hi>Our Father, Hail</hi> Mary, as be<g ref="char:EOLhyphen"/>fore.</p>
+                        </div>
+                        <div type="prayer">
+                           <pb n="15" facs="tcp:35686:22"/>
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Glorious Virgin <hi>Mary,</hi> by that unſpeakable joy thou receiv'ſt in the Reſurrection of thy only Son, we beſeech thee obtain of him for us, that our hearts may never go aſtray after the falſe joys of this World, but may be ever and wholly imploy'd in the Purſuit of the only true and ſolid joys of Heaven.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="2" type="mystery">
+                        <head>The Second Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt Us contemplate on this Myſtery, how our Lord <hi>Jeſus Christ</hi> Forty days after his Reſurrection, aſcended into Hea<g ref="char:EOLhyphen"/>ven, attended by Angels, in the ſight of his moſt Holy Mother, his Holy Apoſtles and Diſciples, to the great admiration of them all.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Mother of God, comfort of the afflicted; as thy beloved Son, when he aſcended into Heaven, lif<g ref="char:EOLhyphen"/>ted up his Hands, and bleſſed his Apoſtles; ſo vouchſafe, moſt Holy Mother, to lift up thy pure hands to
+<pb n="16" facs="tcp:35686:23"/>him for vs, that we may enjoy the Benefit of his Bleſsing and thine here on Earth, and hereafter in Heaven.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="3" type="mystery">
+                        <head>The Third Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt Us contemplate on this Myſtery, how our Lord <hi>Jeſus Chriſt</hi> being ſeated on the right hand of God, ſent (as he had promiſed,) the Holy Ghoſt upon his Apoſtles, who after he was aſcended, returning to <hi>Jeruſalem,</hi> continued in Prayer and Suppli<g ref="char:EOLhyphen"/>cation with the B. Virgin <hi>Mary,</hi> expecting the performance of his Promiſe.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Sacred Virgin, Tabernacle of the Holy Ghost, we beſeech thee, obtain by thy Interceſsion, that this most ſweet Comforter, whom thy beloved Son ſent down upon his Apoſtles, filling them thereby with ſpiritual joy, may teach us in this World the true way of Salvation, and make us walk in the pathes of Virtue and good Works.</p>
+                        </div>
+                     </div>
+                     <div n="4" type="mystery">
+                        <pb n="17" facs="tcp:35686:23"/>
+                        <head>The Fourth Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us contemplate in this My<g ref="char:EOLhyphen"/>ſtery, how the Glorious Vir<g ref="char:EOLhyphen"/>gin twelve years after the Reſur<g ref="char:EOLhyphen"/>rection of her Son, paſſed out of this World unto him, and was by him aſſumed into Heaven, ac<g ref="char:EOLhyphen"/>companied by the Holy Angels.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Moſt prudent Virgin, who en<g ref="char:EOLhyphen"/>tring into the Heavenly Pallace didst fill the Holy Angels with joy, and Man with Hope; vouchſafe to intercede for us in the hour of our Death, that free from the Illuſions and Temptations of the Devil, we may joyfully and ſecurely paſs out of this temporal ſtate to enjoy the hap<g ref="char:EOLhyphen"/>pineſs of Eternal Life.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                     </div>
+                     <div n="5" type="mystery">
+                        <head>The Fifth Myſtery.</head>
+                        <div type="meditation">
+                           <head>The Meditation.</head>
+                           <p>LEt us contemplate in this My<g ref="char:EOLhyphen"/>ſtery, how the Glorious Virgin <hi>Mary,</hi> was with great Ju<g ref="char:EOLhyphen"/>bily and Exultation of the whole Court of Heaven, and particular
+<pb n="18" facs="tcp:35686:24"/>Glory of all the Saints crowned by her Son with the brighteſt Diadem of Glory.</p>
+                        </div>
+                        <div type="prayer">
+                           <head>The Prayer.</head>
+                           <p>
+                              <hi>O</hi> Glorious Queen of all the Hea<g ref="char:EOLhyphen"/>venly Citizens, we beſeech thee accept this <hi>Roſary,</hi> which as a Crown of Roſes we offer at thy feet, and grant most gracious Lady, that by thy Interceſsion our Souls may be enflamed with ſo ardent a deſire of ſeeing thee ſo gloriouſly crowned, that it may never die in us until it ſhall be changed into the happy frui<g ref="char:EOLhyphen"/>tion of thy Bleſſed ſight.</p>
+                           <closer>Amen.</closer>
+                        </div>
+                        <div type="prayer">
+                           <p>Hail Holy Queen, <hi>&amp;c.</hi>
+                           </p>
+                           <p>With the Verſe and Prayer, as before. And the <hi>Litany</hi> of the B. Virgin; as followeth.</p>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div type="litanies">
+                  <pb n="19" facs="tcp:35686:24"/>
+                  <head>The <hi>LITANIES</hi> of our Bleſſed Lady of <hi>Loretto.</hi>
+                  </head>
+                  <head type="sub">
+                     <hi>So called,</hi> For that they are uſually ſung in that Sacred Church of <hi>Loretto,</hi> upon all the <hi>Saturdays</hi> in the Year, and Feasts of the Bleſſed Virgin <hi>Mary.</hi>
+                  </head>
+                  <p>
+                     <label>Anthem.</label> 
+                     <hi>WE fly to your Patronage (O Sacred Mother of God!) deſpiſe not our Prayers in our neceſſities, but de<g ref="char:EOLhyphen"/>liver us from all dangers, O ever glorious and bleſſed Virgin.</hi>
+                  </p>
+                  <list>
+                     <item>LOrd have mercy on us.</item>
+                     <item>Chriſt have mercy on us.</item>
+                     <item>Lord have mercy on us.</item>
+                     <item>Chriſt hear us.</item>
+                     <item>Chriſt graciouſly hear us.</item>
+                     <item>God the Father of Heaven have mercy on us.</item>
+                     <item>God the Son, Redeemer of the World, have mercy on us.</item>
+                     <item>God the Holy Ghost, perfecter of the Elect, have mercy on us.</item>
+                     <item>Holy Trinity, one God, have mercy on us.</item>
+                     <pb n="20" facs="tcp:35686:25"/>
+                     <item>Holy Mary, Pray for us.</item>
+                     <item>Holy Mother of God, Pray for us.</item>
+                     <item>Holy <g ref="char:V">Ʋ</g>irgin of <g ref="char:V">Ʋ</g>irgins, Pray for us.</item>
+                     <item>Mother of Chriſt, Pray for us.</item>
+                     <item>Mother of Divine Grace, Pray for us.</item>
+                     <item>Most pure Mother; Pray for us.</item>
+                     <item>Moſt chaſte Mother, Pray for us.</item>
+                     <item>Inviolated Mother, Pray for us.</item>
+                     <item>Entire Mother, Pray for us.</item>
+                     <item>Amiable Mother, Pray for us.</item>
+                     <item>Admirable Mother, Pray for us.</item>
+                     <item>Mother of our Creator, Pray for us.</item>
+                     <item>Mother of our Saviour, Pray for us.</item>
+                     <item>Moſt prudent <g ref="char:V">Ʋ</g>irgin, Pray for us.</item>
+                     <item>
+                        <g ref="char:V">Ʋ</g>irgin to be <g ref="char:V">Ʋ</g>enerated, Pray for us.</item>
+                     <item>
+                        <g ref="char:V">Ʋ</g>irgin to be praiſed, Pray for us.</item>
+                     <item>Powerful <g ref="char:V">Ʋ</g>irgin, Pray for us.</item>
+                     <item>Clement <g ref="char:V">Ʋ</g>irgin, Pray for us.</item>
+                     <item>Faithful <g ref="char:V">Ʋ</g>irgin, Pray for us.</item>
+                     <item>Mirour of Juſtice, Pray for us.</item>
+                     <item>Seat of Wiſdom, Pray for us.</item>
+                     <item>Cauſe of our joy, Pray for us.</item>
+                     <item>Spiritual <g ref="char:V">Ʋ</g>eſſel, Pray for us.</item>
+                     <item>Honourable <g ref="char:V">Ʋ</g>eſſel, Pray for us.</item>
+                     <item>Rare <g ref="char:V">Ʋ</g>eſſel of Devotion, Pray for us.</item>
+                     <item>Myſtical Roſe, Pray for us.</item>
+                     <item>Tower of <hi>David,</hi> Pray for us.</item>
+                     <item>Tower of Ivory, Pray for us.</item>
+                     <item>Golden Houſe, Pray for us.</item>
+                     <pb n="21" facs="tcp:35686:25"/>
+                     <item>Ark of the Covenant, Pray for us.</item>
+                     <item>Gate of Heaven, Pray for us.</item>
+                     <item>Morning Star, Pray for us.</item>
+                     <item>Health of the Sick, Pray for us.</item>
+                     <item>Refuge of Sinners, Pray for us.</item>
+                     <item>Comfortreſs of the afflicted, Pray for us.</item>
+                     <item>Help of Chriſtians, Pray for us.</item>
+                     <item>Queen of Angels, Pray for us.</item>
+                     <item>Queen of Patriarchs, Pray for us.</item>
+                     <item>Queen of Prophets, Pray for us.</item>
+                     <item>Queen of Apoſtles, Pray for us.</item>
+                     <item>Queen of Martyrs, Pray for us.</item>
+                     <item>Queen of Confeſſors, Pray for us.</item>
+                     <item>Queen of <g ref="char:V">Ʋ</g>irgins, Pray for us.</item>
+                     <item>Queen of all Saints, Pray for us.</item>
+                  </list>
+                  <p>Lamb of God, which takeſt a<g ref="char:EOLhyphen"/>way the Sins of the World, ſpare us O Lord.</p>
+                  <p>Lamb of God which takeſt away the Sins of the World, Graciouſly hear us, O Lord.</p>
+                  <p>Lamb of God, which takeſt away the ſins of the World, have mercy on us.</p>
+                  <p>
+                     <label>Anthem.</label> 
+                     <hi>We fly to your Pa<g ref="char:EOLhyphen"/>tronage, O Sacred Mother of God: deſpiſe not our Prayers in our neceſſities; but ever deliver us from all dangers, O ever gra<g ref="char:EOLhyphen"/>cious and Bleſſed Virgin.</hi>
+                  </p>
+                  <pb n="22" facs="tcp:35686:26"/>
+                  <p>
+                     <g ref="char:V">Ʋ</g>erſ. <hi>Pray for us Holy Mother of God.</hi>
+                  </p>
+                  <p>
+                     <hi>Reſp.</hi> That we may be made wor<g ref="char:EOLhyphen"/>thy of the promiſes of Chriſt.</p>
+                  <div type="prayer">
+                     <opener>Let us Pray.</opener>
+                     <p>WE beſeech Thee, O Lord, pour forth thy Grace into our Hearts, that We, who by the meſſage of an Angel, have knowledge of the Incarnation of thy Son, by his Croſs and Paſſion, may be brought to the Glory of the Reſurrection. Through the ſame Chriſt our Lord. <hi>Amen.</hi>
+                     </p>
+                     <p>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>erſ.</hi> The Divine help remain always with us. <hi>Reſp. Amen. <g ref="char:V">Ʋ</g>erſ,</hi> And may the Souls of the faith<g ref="char:EOLhyphen"/>ful reſt in peace. ℟. <hi>Amen.</hi>
+                     </p>
+                  </div>
+               </div>
+               <div type="prayers">
+                  <head>Prayers for the King, Queen, and Queen Dowager.</head>
+                  <div type="Psalm">
+                     <head>PSALM XIX.</head>
+                     <p>OUR Lord hear thee in the day of tribulation: the Name of the God of <hi>Jacob</hi> pro<g ref="char:EOLhyphen"/>tect thee.</p>
+                     <p>Send he aid to thee from the holy place: and from <hi>Sion</hi> defend he thee.</p>
+                     <pb n="23" facs="tcp:35686:26"/>
+                     <p>Be he mindful of all thy Sacri<g ref="char:EOLhyphen"/>fice: and be thy Holocauſt made fat.</p>
+                     <p>Give he unto thee according to thy heart: and confirm he all thy Counſel.</p>
+                     <p>We ſhall rejoyce in thy Salva<g ref="char:EOLhyphen"/>tion: and in the Name of our God we ſhall be magnified.</p>
+                     <p>Our Lord accompliſh all thy Petitions: now have I known that our Lord hath ſaved his Chriſt.</p>
+                     <p>He ſhall hear him from his ho<g ref="char:EOLhyphen"/>ly Heaven: the Salvation of his right hand is in powers.</p>
+                     <p>Theſe in Chariots, and theſe in Horſes: but we will invocate in the Name of the Lord our God.</p>
+                     <p>They are bound and have fal<g ref="char:EOLhyphen"/>len: but we have riſen and are ſet upright.</p>
+                     <p>Lord, ſave the King, and hear us in the day that we ſhall invo<g ref="char:EOLhyphen"/>cate thee.</p>
+                     <p>
+                        <hi>Glory be to the Father,</hi> &amp;c.</p>
+                     <p>
+                        <hi>As it was in the beginning,</hi> &amp;c.</p>
+                     <p>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>erſ.</hi> Lord, ſave JAMES our King.</p>
+                     <p>℟. <hi>And hear us in the day that we ſhall invocate thee.</hi>
+                     </p>
+                  </div>
+                  <div type="prayer">
+                     <pb n="24" facs="tcp:35686:27" rendition="simple:additions"/>
+                     <opener>Let us pray.</opener>
+                     <p>WE beſeech thee Almighty God, that thy Servant <hi>JAMES</hi> our King, who through thy mercy, has undertaken the Government of the Kingdom; may likewiſe receive the increaſe of all Virtues, where<g ref="char:EOLhyphen"/>with being adorned, he may both avoid the Enormity of Sin, van<g ref="char:EOLhyphen"/>quiſh his Enemies, and by thy Grace attain thee, who art the Way, Truth, and Life. Through <hi>Chriſt</hi> our Lord.</p>
+                     <closer>Amen.</closer>
+                  </div>
+                  <div type="prayer">
+                     <head>To be added to the laſt <hi>Collect</hi> at the end of <hi>Maſs.</hi>
+                     </head>
+                     <p>AND defend thy Servants, <hi>In<g ref="char:EOLhyphen"/>nocent</hi> the Chief Biſhop, <hi>James</hi> our King, <hi>Mary</hi> our Queen, and Queen <hi>Katherine,</hi> together with our ſelves, and all Chriſtian People, from all adverſity, always, and in all places: Grant Peace and Welfare in our times, and preſerve thy Church from all wickedneſs. Through our Lord <hi>Jeſus Chriſt</hi> thy Son, who lives and reigns God with thee, in the <g ref="char:V">Ʋ</g>nity of the Holy Ghoſt for evermore.</p>
+                     <closer>Amen.</closer>
+                  </div>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:35686:27" rendition="simple:additions"/>
+               </div>
+            </body>
+         </text>
+      </group>
+   </text>
+</TEI>
